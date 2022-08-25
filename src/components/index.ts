@@ -1,1 +1,1 @@
-export { default as ReactIcon } from "./ReactIonicon";
+export { default as ReactIonicon } from "./ReactIonicon";

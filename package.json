@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/kellsworks"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Package for adding ionicons to react (Both JavaScript & TypeScript)",
   "scripts": {
     "test": "test",
