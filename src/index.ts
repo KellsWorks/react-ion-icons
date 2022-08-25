@@ -1,1 +1,1 @@
-export * from './components/ReactIonicon'
+export * from './components';
